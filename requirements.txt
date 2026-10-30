@@ -1,0 +1,4 @@
+# Core agent, tools, tracing, tests: Python 3.10+ standard library only.
+# Optional:
+matplotlib>=3.7      # scripts/make_figures.py
+reportlab>=4.0       # scripts/build_pdfs.py
